@@ -45,6 +45,8 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
 ## React
 
+    Article column in tables can refer to RFCs, discussions and articles.
+
 - ### Fundamentals
 
   | Article                                                                                    | By                                                    |
@@ -71,7 +73,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
   | Article                                                                              | By                                             |
   | ------------------------------------------------------------------------------------ | ---------------------------------------------- |
   | [Writing Resilient Components](https://overreacted.io/writing-resilient-components/) | [Dan Abramov](https://twitter.com/dan_abramov) |
-  | [Code-Splitting](https://legacy.reactjs.org/docs/code-splitting.html)                | React Docs                                     |
+  | [Code-Splitting](https://legacy.reactjs.org/docs/code-splitting.html)                | React Team                                     |
 
   ***
 
@@ -96,9 +98,10 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
 - ### React Server Components
 
-  | Article                                                                                         | By                                                |
-  | ----------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-  | [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/) | [Josh W. Comeau](https://twitter.com/joshwcomeau) |
+  | Article                                                                                                  | By                                                |
+  | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+  | [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)          | [Josh W. Comeau](https://twitter.com/joshwcomeau) |
+  | [RFC: React Server Components](https://github.com/reactjs/rfcs/blob/main/text/0188-server-components.md) | React Team                                        |
 
   | Video                                                                                           | By                                                                                           |
   | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
