@@ -45,7 +45,9 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
 ## React
 
-    Article column in tables can refer to RFCs, discussions and articles.
+> **Notes**
+>
+> - Article column in tables can refer to RFCs, discussions and articles.
 
 - ### Fundamentals
 
