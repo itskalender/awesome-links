@@ -46,6 +46,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
 ## React
 
 > [!NOTE]
+>
 > - Article column in tables can refer to RFCs, discussions and articles.
 
 - ### Fundamentals
@@ -103,6 +104,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
   | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
   | [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)          | [Josh W. Comeau](https://twitter.com/joshwcomeau) |
   | [RFC: React Server Components](https://github.com/reactjs/rfcs/blob/main/text/0188-server-components.md) | React Team                                        |
+  | [The Two Reacts](https://overreacted.io/the-two-reacts/)                                                 | [Dan Abramov](https://twitter.com/dan_abramov)    |
 
   | Video                                                                                           | By                                                                                           |
   | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
