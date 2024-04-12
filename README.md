@@ -10,17 +10,22 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
 - [The Web](#the-web)
 - [JavaScript](#javascript)
-  - [Articles](#articles)
-  - [Books](#books)
-  - [Blogs](#blogs)
+  - [Articles](#js-articles)
+  - [Books](#js-books)
+  - [Blogs](#js-blogs)
+- [TypeScript](#typescript)
+  - [Articles](#ts-articles)
+  - [Books](#ts-books)
+  - [Blogs](#ts-blogs)
 - [React](#react)
-  - [Fundamentals](#fundamentals)
-  - [Hooks](#hooks)
-  - [Patterns](#patterns)
-  - [Rendering Behavior](#rendering-behavior)
-  - [Performance](#performance)
-  - [React Server Components](#react-server-components)
-  - [Suspense](#suspense)
+  - [Articles](#react-articles)
+    - [Fundamentals](#fundamentals)
+    - [Hooks](#hooks)
+    - [Patterns](#patterns)
+    - [Rendering Behavior](#rendering-behavior)
+    - [Performance](#performance)
+    - [React Server Components](#react-server-components)
+    - [Suspense](#suspense)
 
 ## The Web
 
@@ -30,18 +35,44 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
 ## JavaScript
 
-### 🖋️ Articles
+### JS Articles
 
 | Article                                                                                                                 | By                                                  |
 | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | [JavaScript Modules: From IIFEs to CommonJS to ES6 Modules](https://ui.dev/javascript-modules-iifes-commonjs-esmodules) | [Tyler McGinnis](https://twitter.com/tylermcginnis) |
 
-### 📚 Books
+### JS Books
 
 | Book                                                | By                                                                                                 |
 | --------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [YDKJS](https://github.com/getify/You-Dont-Know-JS) | [Kyle Simpson](https://twitter.com/getifyAtSocket)                                                 |
 | [Just Javascript](https://justjavascript.com/)      | [Dan Abramov](https://twitter.com/dan_abramov) & [Maggie Appleton](https://twitter.com/Mappletons) |
+
+### JS Blogs
+
+| Book | By  |
+| ---- | --- |
+|      |     |
+
+## TypeScript
+
+### TS Articles
+
+| Article | By  |
+| ------- | --- |
+|         |     |
+
+### TS Books
+
+| Book | By  |
+| ---- | --- |
+|      |     |
+
+### TS Blogs
+
+| Book | By  |
+| ---- | --- |
+|      |     |
 
 ## React
 
@@ -49,7 +80,9 @@ I really admire their way of teaching, expertise and willingness to improve comm
 >
 > - Article column in tables can refer to RFCs, discussions and articles.
 
-- ### Fundamentals
+### React Articles
+
+- #### Fundamentals
 
   | Article                                                                                    | By                                                    |
   | ------------------------------------------------------------------------------------------ | ----------------------------------------------------- |
@@ -59,7 +92,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
   ***
 
-- ### Hooks
+- #### Hooks
 
   | Article                                                                                                 | By                                                      |
   | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
@@ -70,7 +103,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
   ***
 
-- ### Patterns
+- #### Patterns
 
   | Article                                                                              | By                                             |
   | ------------------------------------------------------------------------------------ | ---------------------------------------------- |
@@ -79,7 +112,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
   ***
 
-- ### Rendering Behavior
+- #### Rendering Behavior
 
   | Article                                                                                                | By                                             |
   | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------- |
@@ -88,7 +121,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
   ***
 
-- ### Performance
+- #### Performance
 
   | Article                                                                                                | By                                              |
   | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
@@ -98,7 +131,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
   ***
 
-- ### React Server Components
+- #### React Server Components
 
   | Article                                                                                                  | By                                                |
   | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
@@ -112,7 +145,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
   ***
 
-- ### Suspense
+- #### Suspense
 
   | Article                                                                                           | By                                             |
   | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
