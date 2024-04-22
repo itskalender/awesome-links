@@ -50,7 +50,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
 ### JS Blogs
 
-| Book | By  |
+| Blog | By  |
 | ---- | --- |
 |      |     |
 
@@ -58,9 +58,9 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
 ### TS Articles
 
-| Article | By  |
-| ------- | --- |
-|         |     |
+| Article                                                                                                               | By                                              |
+| --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| [No, TypeScript Types Don't Exist At Runtime](https://www.totaltypescript.com/typescript-types-dont-exist-at-runtime) | [Matt Pocock](https://twitter.com/mattpocockuk) |
 
 ### TS Books
 
@@ -70,7 +70,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
 ### TS Blogs
 
-| Book | By  |
+| Blog | By  |
 | ---- | --- |
 |      |     |
 
