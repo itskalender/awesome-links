@@ -15,17 +15,18 @@ I really admire their way of teaching, expertise and willingness to improve comm
   - [Blogs](#js-blogs)
 - [TypeScript](#typescript)
   - [Articles](#ts-articles)
+    - [Fundamentals](#ts-fundamentals)
   - [Books](#ts-books)
   - [Blogs](#ts-blogs)
 - [React](#react)
   - [Articles](#react-articles)
-    - [Fundamentals](#fundamentals)
-    - [Hooks](#hooks)
-    - [Patterns](#patterns)
-    - [Rendering Behavior](#rendering-behavior)
-    - [Performance](#performance)
-    - [React Server Components](#react-server-components)
-    - [Suspense](#suspense)
+    - [Fundamentals](#react-fundamentals)
+    - [Hooks](#react-hooks)
+    - [Patterns](#react-patterns)
+    - [Rendering Behavior](#react-rendering-behavior)
+    - [Performance](#react-performance)
+    - [Server Components](#react-server-components)
+    - [Suspense](#react-suspense)
 
 ## The Web
 
@@ -58,9 +59,12 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
 ### TS Articles
 
-| Article                                                                                                               | By                                              |
-| --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| [No, TypeScript Types Don't Exist At Runtime](https://www.totaltypescript.com/typescript-types-dont-exist-at-runtime) | [Matt Pocock](https://twitter.com/mattpocockuk) |
+- #### TS Fundamentals
+
+  | Article                                                                                                                                  | By                                              |
+  | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+  | [No, TypeScript Types Don't Exist At Runtime](https://www.totaltypescript.com/typescript-types-dont-exist-at-runtime)                    | [Matt Pocock](https://twitter.com/mattpocockuk) |
+  | [NoTypeScript Discriminated Unions for Frontend Developers](https://www.totaltypescript.com/discriminated-unions-are-a-devs-best-friend) | [Matt Pocock](https://twitter.com/mattpocockuk) |
 
 ### TS Books
 
@@ -70,9 +74,9 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
 ### TS Blogs
 
-| Blog | By  |
-| ---- | --- |
-|      |     |
+| Blog                                            |
+| ----------------------------------------------- |
+| [Matt Pocock](https://www.totaltypescript.com/) |
 
 ## React
 
@@ -82,7 +86,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
 ### React Articles
 
-- #### Fundamentals
+- #### React Fundamentals
 
   | Article                                                                                    | By                                                    |
   | ------------------------------------------------------------------------------------------ | ----------------------------------------------------- |
@@ -92,7 +96,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
   ***
 
-- #### Hooks
+- #### React Hooks
 
   | Article                                                                                                 | By                                                      |
   | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
@@ -103,7 +107,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
   ***
 
-- #### Patterns
+- #### React Patterns
 
   | Article                                                                              | By                                             |
   | ------------------------------------------------------------------------------------ | ---------------------------------------------- |
@@ -112,7 +116,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
   ***
 
-- #### Rendering Behavior
+- #### React Rendering Behavior
 
   | Article                                                                                                | By                                             |
   | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------- |
@@ -121,7 +125,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
   ***
 
-- #### Performance
+- #### React Performance
 
   | Article                                                                                                | By                                              |
   | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
@@ -145,7 +149,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
   ***
 
-- #### Suspense
+- #### React Suspense
 
   | Article                                                                                           | By                                             |
   | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
