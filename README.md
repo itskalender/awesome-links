@@ -11,11 +11,13 @@ I really admire their way of teaching, expertise and willingness to improve comm
 - [The Web](#the-web)
 - [JavaScript](#javascript)
   - [Articles](#js-articles)
+    - [Modules](#js-modules)
   - [Books](#js-books)
   - [Blogs](#js-blogs)
 - [TypeScript](#typescript)
   - [Articles](#ts-articles)
     - [Fundamentals](#ts-fundamentals)
+    - [Unions](#ts-unions)
   - [Books](#ts-books)
   - [Blogs](#ts-blogs)
 - [React](#react)
@@ -38,9 +40,11 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
 ### JS Articles
 
-| Article                                                                                                                 | By                                                  |
-| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| [JavaScript Modules: From IIFEs to CommonJS to ES6 Modules](https://ui.dev/javascript-modules-iifes-commonjs-esmodules) | [Tyler McGinnis](https://twitter.com/tylermcginnis) |
+- #### JS Modules
+
+  | Article                                                                                                                 | By                                                  |
+  | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+  | [JavaScript Modules: From IIFEs to CommonJS to ES6 Modules](https://ui.dev/javascript-modules-iifes-commonjs-esmodules) | [Tyler McGinnis](https://twitter.com/tylermcginnis) |
 
 ### JS Books
 
@@ -61,9 +65,14 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
 - #### TS Fundamentals
 
+  | Article                                                                                                               | By                                              |
+  | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+  | [No, TypeScript Types Don't Exist At Runtime](https://www.totaltypescript.com/typescript-types-dont-exist-at-runtime) | [Matt Pocock](https://twitter.com/mattpocockuk) |
+
+- #### TS Unions
+
   | Article                                                                                                                                  | By                                              |
   | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-  | [No, TypeScript Types Don't Exist At Runtime](https://www.totaltypescript.com/typescript-types-dont-exist-at-runtime)                    | [Matt Pocock](https://twitter.com/mattpocockuk) |
   | [NoTypeScript Discriminated Unions for Frontend Developers](https://www.totaltypescript.com/discriminated-unions-are-a-devs-best-friend) | [Matt Pocock](https://twitter.com/mattpocockuk) |
 
 ### TS Books
