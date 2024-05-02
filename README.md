@@ -18,6 +18,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
   - [Articles](#ts-articles)
     - [Fundamentals](#ts-fundamentals)
     - [Unions](#ts-unions)
+    - [Never](#ts-never)
   - [Books](#ts-books)
   - [Blogs](#ts-blogs)
 - [React](#react)
@@ -75,6 +76,12 @@ I really admire their way of teaching, expertise and willingness to improve comm
   | Article                                                                                                                                  | By                                              |
   | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
   | [NoTypeScript Discriminated Unions for Frontend Developers](https://www.totaltypescript.com/discriminated-unions-are-a-devs-best-friend) | [Matt Pocock](https://twitter.com/mattpocockuk) |
+
+- #### TS Never
+
+  | Article                                                                               | By                                             |
+  | ------------------------------------------------------------------------------------- | ---------------------------------------------- |
+  | [A Complete Guide To TypeScript's Never Type](https://www.zhenghao.io/posts/ts-never) | [Zhenghao He](https://twitter.com/he_zhenghao) |
 
 ### TS Books
 
