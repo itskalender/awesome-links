@@ -19,6 +19,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
     - [Fundamentals](#ts-fundamentals)
     - [Unions](#ts-unions)
     - [Never](#ts-never)
+    - [Generics](#ts-generics)
   - [Books](#ts-books)
   - [Blogs](#ts-blogs)
 - [React](#react)
@@ -82,6 +83,12 @@ I really admire their way of teaching, expertise and willingness to improve comm
   | Article                                                                               | By                                             |
   | ------------------------------------------------------------------------------------- | ---------------------------------------------- |
   | [A Complete Guide To TypeScript's Never Type](https://www.zhenghao.io/posts/ts-never) | [Zhenghao He](https://twitter.com/he_zhenghao) |
+
+- #### TS Generics
+
+  | Article                                                                                                        | By                                              |
+  | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+  | [Building the Mental Model for Generics](https://www.totaltypescript.com/mental-model-for-typescript-generics) | [Matt Pocock](https://twitter.com/mattpocockuk) |
 
 ### TS Books
 
