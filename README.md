@@ -89,6 +89,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
   | Article                                                                                                        | By                                              |
   | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
   | [Building the Mental Model for Generics](https://www.totaltypescript.com/mental-model-for-typescript-generics) | [Matt Pocock](https://twitter.com/mattpocockuk) |
+  | [There Is No Such Thing As A Generic](https://www.totaltypescript.com/no-such-thing-as-a-generic)              | [Matt Pocock](https://twitter.com/mattpocockuk) |
 
 ### TS Books
 
