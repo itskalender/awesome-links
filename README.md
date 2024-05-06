@@ -71,6 +71,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
   | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
   | [No, TypeScript Types Don't Exist At Runtime](https://www.totaltypescript.com/typescript-types-dont-exist-at-runtime) | [Matt Pocock](https://twitter.com/mattpocockuk) |
   | [An Introduction To Type Programming In TypeScript](https://www.zhenghao.io/posts/type-programming)                   | [Zhenghao He](https://twitter.com/he_zhenghao)  |
+  | [The Type Hierarchy Tree](https://www.zhenghao.io/posts/type-hierarchy-tree)                                          | [Zhenghao He](https://twitter.com/he_zhenghao)  |
 
 - #### TS Unions
 
