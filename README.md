@@ -79,6 +79,12 @@ I really admire their way of teaching, expertise and willingness to improve comm
   | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
   | [NoTypeScript Discriminated Unions for Frontend Developers](https://www.totaltypescript.com/discriminated-unions-are-a-devs-best-friend) | [Matt Pocock](https://twitter.com/mattpocockuk) |
 
+- #### TS Unknown
+
+  | Article                                                                                        | By                                                      |
+  | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+  | [The unknown Type in TypeScript](https://mariusschulz.com/blog/the-unknown-type-in-typescript) | [Marius Schulz](https://www.threads.net/@marius.schulz) |
+
 - #### TS Never
 
   | Article                                                                               | By                                             |
