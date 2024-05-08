@@ -87,9 +87,10 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
 - #### TS Never
 
-  | Article                                                                               | By                                             |
-  | ------------------------------------------------------------------------------------- | ---------------------------------------------- |
-  | [A Complete Guide To TypeScript's Never Type](https://www.zhenghao.io/posts/ts-never) | [Zhenghao He](https://twitter.com/he_zhenghao) |
+  | Article                                                                                    | By                                                      |
+  | ------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
+  | [A Complete Guide To TypeScript's Never Type](https://www.zhenghao.io/posts/ts-never)      | [Zhenghao He](https://twitter.com/he_zhenghao)          |
+  | [The never Type in TypeScript](https://mariusschulz.com/blog/the-never-type-in-typescript) | [Marius Schulz](https://www.threads.net/@marius.schulz) |
 
 - #### TS Generics
 
