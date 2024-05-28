@@ -16,6 +16,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
   - [Blogs](#js-blogs)
 - [CSS](#css)
   - [Articles](#css-articles)
+    - [Flexbox](#css-flexbox)
   - [Books](#css-books)
   - [Blogs](#css-blogs)
 - [TypeScript](#typescript)
