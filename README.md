@@ -102,9 +102,9 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
 - #### TS Unions
 
-  | Article                                                                                                                                  | By                                              |
-  | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-  | [NoTypeScript Discriminated Unions for Frontend Developers](https://www.totaltypescript.com/discriminated-unions-are-a-devs-best-friend) | [Matt Pocock](https://twitter.com/mattpocockuk) |
+  | Article | By  |
+  | ------- | --- |
+  |         |     |
 
 - #### TS Unknown
 
@@ -154,6 +154,10 @@ I really admire their way of teaching, expertise and willingness to improve comm
   | [React Element vs Component](https://www.robinwieruch.de/react-element-component/)         | [Robin Wieruch](https://twitter.com/rwieruch)         |
   | [The Rules of React](https://gist.github.com/sebmarkbage/75f0838967cd003cd7f9ab938eb1958f) | [Sebastian Markbåge](https://twitter.com/sebmarkbage) |
 
+  | Video                                                               | By                                       |
+  | ------------------------------------------------------------------- | ---------------------------------------- |
+  | [Deconstructing React](https://www.youtube.com/watch?v=eTcyOCd6v1c) | [Tejas Kumar](https://x.com/TejasKumar_) |
+
   ***
 
 - #### React Hooks
@@ -201,6 +205,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
   | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
   | [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)          | [Josh W. Comeau](https://twitter.com/joshwcomeau) |
   | [RFC: React Server Components](https://github.com/reactjs/rfcs/blob/main/text/0188-server-components.md) | React Team                                        |
+  | [A Chain Reaction](https://overreacted.io/a-chain-reaction/)                                             | [Dan Abramov](https://twitter.com/dan_abramov)    |
   | [The Two Reacts](https://overreacted.io/the-two-reacts/)                                                 | [Dan Abramov](https://twitter.com/dan_abramov)    |
 
   | Video                                                                                           | By                                                                                           |
