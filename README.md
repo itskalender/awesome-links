@@ -12,6 +12,7 @@ I really admire their way of teaching, expertise and willingness to improve comm
 - [JavaScript](#javascript)
   - [Articles](#js-articles)
     - [Modules](#js-modules)
+    - [Promises](#js-promises)
   - [Books](#js-books)
   - [Blogs](#js-blogs)
 - [CSS](#css)
@@ -52,6 +53,12 @@ I really admire their way of teaching, expertise and willingness to improve comm
   | Article                                                                                                                 | By                                                  |
   | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
   | [JavaScript Modules: From IIFEs to CommonJS to ES6 Modules](https://ui.dev/javascript-modules-iifes-commonjs-esmodules) | [Tyler McGinnis](https://twitter.com/tylermcginnis) |
+
+- #### JS Promises
+
+  | Article                                                                         | By                                                |
+  | ------------------------------------------------------------------------------- | ------------------------------------------------- |
+  | [Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/) | [Josh W. Comeau](https://twitter.com/JoshWComeau) |
 
 ### JS Books
 
