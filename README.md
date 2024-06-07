@@ -208,12 +208,13 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
 - #### React Server Components
 
-  | Article                                                                                                  | By                                                |
-  | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-  | [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)          | [Josh W. Comeau](https://twitter.com/joshwcomeau) |
-  | [RFC: React Server Components](https://github.com/reactjs/rfcs/blob/main/text/0188-server-components.md) | React Team                                        |
-  | [A Chain Reaction](https://overreacted.io/a-chain-reaction/)                                             | [Dan Abramov](https://twitter.com/dan_abramov)    |
-  | [The Two Reacts](https://overreacted.io/the-two-reacts/)                                                 | [Dan Abramov](https://twitter.com/dan_abramov)    |
+  | Article                                                                                                                                             | By                                                |
+  | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+  | [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)                                                     | [Josh W. Comeau](https://twitter.com/joshwcomeau) |
+  | [Everything I wish I knew before moving 50,000 lines of code to React Server Components](https://www.mux.com/blog/what-are-react-server-components) | [Darius Cepulis](https://darius.place/)           |
+  | [RFC: React Server Components](https://github.com/reactjs/rfcs/blob/main/text/0188-server-components.md)                                            | React Team                                        |
+  | [A Chain Reaction](https://overreacted.io/a-chain-reaction/)                                                                                        | [Dan Abramov](https://twitter.com/dan_abramov)    |
+  | [The Two Reacts](https://overreacted.io/the-two-reacts/)                                                                                            | [Dan Abramov](https://twitter.com/dan_abramov)    |
 
   | Video                                                                                           | By                                                                                           |
   | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
