@@ -50,10 +50,9 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
 - #### JS Modules
 
-  | Article                                                                                                                     | By                                                  |
-  | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-  | [JavaScript Modules: From IIFEs to CommonJS to ES6 Modules](https://ui.dev/javascript-modules-iifes-commonjs-esmodules)     | [Tyler McGinnis](https://twitter.com/tylermcginnis) |
-  | [JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015](https://auth0.com/blog/javascript-module-systems-showdown/) | [Sebastian Peyrott](https://x.com/speyrott)         |
+  | Article                                                                                                                 | By                                                  |
+  | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+  | [JavaScript Modules: From IIFEs to CommonJS to ES6 Modules](https://ui.dev/javascript-modules-iifes-commonjs-esmodules) | [Tyler McGinnis](https://twitter.com/tylermcginnis) |
 
 - #### JS Promises
 
