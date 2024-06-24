@@ -50,9 +50,10 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
 - #### JS Modules
 
-  | Article                                                                                                                 | By                                                  |
-  | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-  | [JavaScript Modules: From IIFEs to CommonJS to ES6 Modules](https://ui.dev/javascript-modules-iifes-commonjs-esmodules) | [Tyler McGinnis](https://twitter.com/tylermcginnis) |
+  | Article                                                                                                                     | By                                                  |
+  | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+  | [JavaScript Modules: From IIFEs to CommonJS to ES6 Modules](https://ui.dev/javascript-modules-iifes-commonjs-esmodules)     | [Tyler McGinnis](https://twitter.com/tylermcginnis) |
+  | [JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015](https://auth0.com/blog/javascript-module-systems-showdown/) | [Sebastian Peyrott](https://x.com/speyrott)         |
 
 - #### JS Promises
 
@@ -101,11 +102,11 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
 - #### TS Fundamentals
 
-  | Article                                                                                                               | By                                              |
-  | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-  | [No, TypeScript Types Don't Exist At Runtime](https://www.totaltypescript.com/typescript-types-dont-exist-at-runtime) | [Matt Pocock](https://twitter.com/mattpocockuk) |
-  | [An Introduction To Type Programming In TypeScript](https://www.zhenghao.io/posts/type-programming)                   | [Zhenghao He](https://twitter.com/he_zhenghao)  |
-  | [The Type Hierarchy Tree](https://www.zhenghao.io/posts/type-hierarchy-tree)                                          | [Zhenghao He](https://twitter.com/he_zhenghao)  |
+  | Article                                                                                                                   | By                                             |
+  | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+  | [An Introduction To Type Programming In TypeScript](https://www.zhenghao.io/posts/type-programming)                       | [Zhenghao He](https://twitter.com/he_zhenghao) |
+  | [The Type Hierarchy Tree](https://www.zhenghao.io/posts/type-hierarchy-tree)                                              | [Zhenghao He](https://twitter.com/he_zhenghao) |
+  | [Assertion Functions](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-7.html#assertion-functions) | TypeScript Team                                |
 
 - #### TS Unions
 
