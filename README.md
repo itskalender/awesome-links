@@ -83,6 +83,12 @@ I really admire their way of teaching, expertise and willingness to improve comm
   | ------------------------------------------------------------------------------------------------ | ------------------------------------------------- |
   | [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) | [Josh W. Comeau](https://twitter.com/JoshWComeau) |
 
+- #### CSS Grid
+
+  | Article                                                                                        | By                                                |
+  | ---------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+  | [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) | [Josh W. Comeau](https://twitter.com/JoshWComeau) |
+
 ### CSS Books
 
 | Book | By  |
