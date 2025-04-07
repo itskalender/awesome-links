@@ -77,6 +77,12 @@ I really admire their way of teaching, expertise and willingness to improve comm
 
 ### CSS Articles
 
+- #### -
+
+  | Article                                                                                          | By                                            |
+  | ------------------------------------------------------------------------------------------------ | --------------------------------------------- |
+  | [Add punctuation to your alt text](https://thoughtbot.com/blog/add-punctuation-to-your-alt-text) | [Eric W. Bailey](https://ericwbailey.design/) |
+
 - #### CSS Flexbox
 
   | Article                                                                                          | By                                                |
